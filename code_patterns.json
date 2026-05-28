@@ -1,0 +1,13 @@
+{
+  "business login page": {
+    "keywords": ["business login", "login page", "attractive login", "business ke liye login", "login page banao"],
+    "language": "html css",
+    "code": "<!DOCTYPE html>\n<html>\n<head>\n<title>Business Login</title>\n<style>\nbody{margin:0;height:100vh;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,#0f172a,#2563eb);font-family:Arial}.box{width:380px;background:white;padding:35px;border-radius:20px;box-shadow:0 20px 60px #0008}h2{text-align:center;color:#1e3a8a}input,button{width:100%;padding:14px;margin:10px 0;border-radius:10px}button{background:#2563eb;color:white;border:0;font-weight:bold}</style>\n</head>\n<body>\n<div class='box'>\n<h2>Business Login</h2>\n<input placeholder='Email'>\n<input type='password' placeholder='Password'>\n<button>Login</button>\n</div>\n</body>\n</html>"
+  },
+
+  "python calculator": {
+    "keywords": ["python calculator", "calculator python", "calculator banao"],
+    "language": "python",
+    "code": "a=int(input('First number: '))\nb=int(input('Second number: '))\nprint('Sum:',a+b)"
+  }
+}
